@@ -1,0 +1,63 @@
+body{
+    background-color: hsl(204, 43%, 93%);
+}
+
+span{
+    font-size: 32px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+h5{
+    color: white;
+}
+
+.container-fluid{
+    padding: 20% 10%;
+    border: black;
+}
+
+#first{
+    background-color: white;
+    padding: 5% 5%;
+}
+
+#second{
+    color: hsl(179, 62%, 43%);
+}
+
+#third{
+    color: hsl(71, 73%, 54%);
+}
+
+#fourth{
+    background-color:hsl(179, 62%, 43%);
+    color: turquoise;
+    padding: 5% 5%;
+}
+
+#fifth{
+    color: white;
+}
+button{
+    background-color: hsl(71, 73%, 54%);
+    color: white;
+    width: 250px;
+    height: 64px;
+    border-radius: 10px;
+}
+#sixth{
+    background-color: mediumaquamarine;
+    color: teal;
+    padding: 5% 5%;
+}
+
+
+
+#first-p{
+    color: thistle;
+}
